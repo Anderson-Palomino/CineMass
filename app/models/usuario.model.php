@@ -1,0 +1,2 @@
+<?
+echo "Modelo usuario";

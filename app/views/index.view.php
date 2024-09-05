@@ -1,0 +1,2 @@
+<?
+echo "vista index";
