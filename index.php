@@ -6,6 +6,6 @@
     <title>Index principal</title>
 </head>
 <body>
-    <h1>Principal</h1>
+    <h1>Principal1 GAAAAAAAA</h1>
 </body>
 </html>
